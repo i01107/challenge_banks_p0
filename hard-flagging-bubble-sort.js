@@ -1,5 +1,7 @@
 /*
 Buatlah sebuah function bernama myBubbleSort yang akan menerima sebuah array of number. Implementasikan algoritma bubble sort yang di improve dengan menggunakan flagging. Flagging dipakai untuk menentukan apakah pada iterasi terakhir ada dilakukan value switching ( penukaran nilai ). Jika tidak ada, maka tidak perlu melakukan iterasi lagi setelahnya, jika masih ada
+
+Algoritma bubble sort nya silakan dicari via googling :P
 */
 
 function myBubbleSort(arr) {
