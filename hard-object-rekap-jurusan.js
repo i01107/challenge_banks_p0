@@ -4,32 +4,38 @@ Rekap Jurusan
 ===
 
 Diberikan array of object dari data di TU kampus :
-{
-  'Adi': {
+[
+  {
+    'nama': 'Adi',
     'jurusan': 'TI',
     'nilai': 80
   },
-  'Bintang': {
+  {
+    'nama': 'Bintang',
     'jurusan': 'Biologi',
     'nilai': 70
   },
-  'Nanda': {
+  {
+    'nama': 'Nanda',
     'jurusan': 'TI',
     'nilai': 90
   },
-  'Rama': {
+  {
+    'nama': 'Rama',
     'jurusan': 'Elektro',
     'nilai': 80
   },
-  'Reggi': {
+  {
+    'nama': 'Reggi',
     'jurusan': 'TI',
     'nilai': 100
   },
-  'Windy': {
+  {
+    'nama': 'Windy',
     'jurusan': 'Biologi',
     'nilai': 100
   },
-}
+]
 
 Diminta untuk melakukan rekap per Jurusan sehingga data nya menjadi seperti ini :
 {
