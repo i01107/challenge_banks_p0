@@ -11,4 +11,4 @@ function myBubbleSort(arr) {
 let input = [1, 2, 3, 56, 2, 55, 7, 4, 77, 4, 3, 2, 1]
 
 console.log(myBubbleSort(input))
-// [1, 1, 2,  2,  2, 3, 3, 4, 4, 55, 56, 7, 77]
+// [1, 1, 2, 2, 2, 3, 3, 4, 4, 7, 55, 56, 77]
